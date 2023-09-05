@@ -8,3 +8,4 @@ Novos X-men
 -Tempestade
 -Colossus
 -Noturno
+-Gambit
